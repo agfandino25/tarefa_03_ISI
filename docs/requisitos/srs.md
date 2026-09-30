@@ -270,11 +270,7 @@ Aquí tienes el glosario estructurado con la tabla y columnas exactas que me ped
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
-| **UR-05** | Requisito de usuario que habilita al paciente a introducir, consultar y gestionar su historial de datos fisiológicos y de salud.
-
- | Acta UR-05
-
- |
+| **UR-05** | Requisito de usuario que habilita al paciente a introducir, consultar y gestionar su historial de datos fisiológicos y de salud.| Acta UR-05|
 | **Datos Fisiológicos** | Mediciones corporales manuales registradas por el paciente: peso, altura, frecuencia cardíaca, temperatura y presión arterial (sistólica/diastólica).
 
  | Acta UR-05
