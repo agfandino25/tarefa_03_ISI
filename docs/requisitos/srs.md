@@ -274,36 +274,12 @@ Aquí tienes el glosario estructurado con la tabla y columnas exactas que me ped
 | **Datos Fisiológicos** | Mediciones corporales manuales registradas por el paciente: peso, altura, frecuencia cardíaca, temperatura y presión arterial (sistólica/diastólica).| Acta UR-05|
 | **Umbral Crítico y Alertas** | Valores límite parametrizables que, al ser superados por una medición, registran una alerta automática y notifican al paciente para que busque atención médica.| Acta UR-05|
 | **Acceso Autorizado y Revocación** | Control de privacidad mediante el cual el paciente autoriza explícitamente a un profesional (vía correo) a ver sus datos y puede revocar dicho acceso en cualquier momento.| Acta UR-05 / Acta Acuerdos|
-| **Disponibilidad (99,5 %)** | Nivel de servicio operativo exigido de forma continua (24/7) en cada mes natural, verificado externamente cada 5 minutos.
-
- | Acta Acuerdos Técnicos
-
- |
-| **Prueba de Carga Automatizada** | Evaluación de rendimiento simulando 100 usuarios concurrentes y 10 operaciones/segundo durante 30 minutos sin intervención manual.
-
- | Acta Acuerdos Técnicos
-
- |
-| **Copia de Seguridad y Recuperación** | Respaldo diario de datos de salud y recetas que garantiza un tiempo de recuperación (RTO) máximo de 4 horas y una pérdida de datos (RPO) no superior a 24 horas.
-
- | Acta Acuerdos Técnicos
-
- |
-| **OAuth 2.0 / OpenID Connect** | Protocolos seguros de autenticación sobre HTTPS utilizados para iniciar sesión con Google sin almacenar la contraseña del usuario en la plataforma.
-
- | Acta Acuerdos Técnicos
-
- |
-| **WCAG 2.2 (Nivel AA)** | Estándar de accesibilidad web de obligatorio cumplimiento en todas las pantallas y flujos de la primera versión del sistema.
-
- | Acta Acuerdos Técnicos
-
- |
-| **Interfaz Web Responsiva** | Acceso a la plataforma mediante tecnologías web abiertas (HTML5, CSS, ECMAScript) adaptable a navegadores sin requerir aplicaciones nativas.
-
- | Acta Acuerdos Técnicos
-
- |
+| **Disponibilidad (99,5 %)** | Nivel de servicio operativo exigido de forma continua (24/7) en cada mes natural, verificado externamente cada 5 minutos.| Acta Acuerdos Técnicos|
+| **Prueba de Carga Automatizada** | Evaluación de rendimiento simulando 100 usuarios concurrentes y 10 operaciones/segundo durante 30 minutos sin intervención manual.| Acta Acuerdos Técnicos|
+| **Copia de Seguridad y Recuperación** | Respaldo diario de datos de salud y recetas que garantiza un tiempo de recuperación (RTO) máximo de 4 horas y una pérdida de datos (RPO) no superior a 24 horas.| Acta Acuerdos Técnicos|
+| **OAuth 2.0 / OpenID Connect** | Protocolos seguros de autenticación sobre HTTPS utilizados para iniciar sesión con Google sin almacenar la contraseña del usuario en la plataforma.| Acta Acuerdos Técnicos|
+| **WCAG 2.2 (Nivel AA)** | Estándar de accesibilidad web de obligatorio cumplimiento en todas las pantallas y flujos de la primera versión del sistema.| Acta Acuerdos Técnicos|
+| **Interfaz Web Responsiva** | Acceso a la plataforma mediante tecnologías web abiertas (HTML5, CSS, ECMAScript) adaptable a navegadores sin requerir aplicaciones nativas.| Acta Acuerdos Técnicos|
 
 ## 10. Modelos de análisis
 
