@@ -271,21 +271,9 @@ Aquí tienes el glosario estructurado con la tabla y columnas exactas que me ped
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
 | **UR-05** | Requisito de usuario que habilita al paciente a introducir, consultar y gestionar su historial de datos fisiológicos y de salud.| Acta UR-05|
-| **Datos Fisiológicos** | Mediciones corporales manuales registradas por el paciente: peso, altura, frecuencia cardíaca, temperatura y presión arterial (sistólica/diastólica).
-
- | Acta UR-05
-
- |
-| **Umbral Crítico y Alertas** | Valores límite parametrizables que, al ser superados por una medición, registran una alerta automática y notifican al paciente para que busque atención médica.
-
- | Acta UR-05
-
- |
-| **Acceso Autorizado y Revocación** | Control de privacidad mediante el cual el paciente autoriza explícitamente a un profesional (vía correo) a ver sus datos y puede revocar dicho acceso en cualquier momento.
-
- | Acta UR-05 / Acta Acuerdos
-
- |
+| **Datos Fisiológicos** | Mediciones corporales manuales registradas por el paciente: peso, altura, frecuencia cardíaca, temperatura y presión arterial (sistólica/diastólica).| Acta UR-05|
+| **Umbral Crítico y Alertas** | Valores límite parametrizables que, al ser superados por una medición, registran una alerta automática y notifican al paciente para que busque atención médica.| Acta UR-05|
+| **Acceso Autorizado y Revocación** | Control de privacidad mediante el cual el paciente autoriza explícitamente a un profesional (vía correo) a ver sus datos y puede revocar dicho acceso en cualquier momento.| Acta UR-05 / Acta Acuerdos|
 | **Disponibilidad (99,5 %)** | Nivel de servicio operativo exigido de forma continua (24/7) en cada mes natural, verificado externamente cada 5 minutos.
 
  | Acta Acuerdos Técnicos
