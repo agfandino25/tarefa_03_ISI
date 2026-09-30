@@ -282,7 +282,7 @@ FR-017 se conserva para no perder el identificador histórico, pero su estado es
 | NFR-08 | NFR-Q ( Disponibilidad)  | La plataforma ofrecerá servicio durante las 24 horas del día, con una disponibilidad mínima del 99,5 % en cada mes natural. | G | - | . La disponibilidad se medirá mediante una comprobación automática realizada cada cinco minutos desde un sistema externo a la plataforma, y una comprobación se considerará fallida cuando no sea posible acceder a la plataforma o utilizar sus funciones principales.| - |
 |NFR-09|NFR-Q (Calidad - integridad)| La plataforma realizará al menos una copia de seguridad diaria de la información de salud y de las recetas. | G | - |  La plataforma deberá recuperar sus funciones principales en un máximo de cuatro horas desde la declaración del incidente, y la pérdida de información no podrá superar las 24 horas anteriores al incidente. | - |
 | NFR-10| NFR-I (Interfaz)|La autenticación en la plataforma se realizará utilizando OAuth 2.0 u OpenID Connect sobre HTTPS y que la plataforma no almacenará la contraseña de Google.| G | - | La plataforma comprobará mediante una prueba de autenticación con una cuenta de prueba y la revisión de la configuración de la integración. | - |
-| NFR-11 | 
+
 Categorías y atributos: 
 1) Requisitos de calidad (NFR-Q): Rendimiento, Usabilidad, Seguridad, Fiabilidad, Disponibilidad, Modificabilidad, Portabilidad, Eficiencia, Escalabilidad, Verificabilidad / Testabilidad, Robustez, Seguridad funcional (safety), Integridad, Reusabilidad, Instalabilidad.
 2) Restricciones (NFR-R): Tecnología y entorno, Hardware, Regulaciones y estándares, Compatibilidad, Interfaces existentes, Restricciones presupuestarias y de gestión.
